@@ -1,2 +1,2 @@
-Netlify Link =>  https://react-redux-taskss.netlify.app/cart/0
+Netlify Link => https://react-redux-taskss.netlify.app/
 
